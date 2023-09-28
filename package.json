@@ -1,0 +1,10 @@
+{
+    "name": "express-typescript-starter",
+    "version": "0.1.0",
+    "description": "A starting point for Node.js express apps with TypeScript",
+    "author": "Bowden Kelly",
+    "license": "MIT",
+    "scripts": {
+        "start": "sh run.sh"
+    }
+}
